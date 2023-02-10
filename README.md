@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-<img src="./assets/mediaserver.GIF" alt="orange pi 5 case" width="300"/>
+<img src="./assets/mediaserver.GIF" alt="orange pi 5 case" width="400"/>
 </div>
 
 ## About
